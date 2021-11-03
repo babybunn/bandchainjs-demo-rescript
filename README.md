@@ -5,17 +5,17 @@ The only official ReScript starter template.
 ## Installation
 
 ```sh
-npm install
+yarn
 ```
 
 ## Build
 
-- Build: `npm run build`
-- Clean: `npm run clean`
-- Build & watch: `npm run start`
+- Build: `yarn build`
+- Build & watch: `yarn start`
+- Server: `yarn server`
 
 ## Run
 
 ```sh
-node src/Demo.bs.js
+http://localhost:8080/
 ```
